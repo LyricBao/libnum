@@ -12,6 +12,21 @@ This is a python library for some numbers functions:
 
 Library may be used for learning/experimenting purposes. Should NOT be used for secure crypto implementations.
 
+**Install:** 
+*Linux:*
+```
+git clone https://github.com/hellman/libnum
+cd libnum
+python setup.py install
+```
+*Window:*
+download &  decompress it
+```
+cd libnum
+python setup.py install
+
+```
+
 
 List of functions
 ---------------------
