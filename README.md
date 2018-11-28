@@ -19,7 +19,7 @@ git clone https://github.com/hellman/libnum
 cd libnum
 python setup.py install
 ```
-*Window:*
+*Windows:*
 download &  decompress it
 ```
 cd libnum
